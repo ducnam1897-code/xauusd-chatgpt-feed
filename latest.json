@@ -4,15 +4,15 @@
  "data_mode": "MT5_MARKET_DATA",
  "status": "FRESH",
  "symbol": "XAUUSDm",
- "generated_utc": "2026-10-22T03:58:00Z",
+ "generated_utc": "2026-10-22T04:00:02Z",
  "timezone": "UTC",
  "market_timestamp_assumption": "MT5 epoch timestamps are treated as UTC bar opens",
- "data_age_seconds": 180,
+ "data_age_seconds": 302,
  "max_allowed_age_seconds": 1200,
  "tick": {
-  "bid": 4090.776,
-  "ask": 4091.016,
-  "tick_utc": "2026-10-22T03:58:01Z",
+  "bid": 4092.119,
+  "ask": 4092.359,
+  "tick_utc": "2026-10-22T04:00:03Z",
   "tick_age_seconds": -1,
   "digits": 3
  },
@@ -20777,5 +20777,5 @@
    ]
   }
  },
- "chart_sha256": "7a607b3d0edfabfcb0a23418985d7a7c70f4a412aabd8595a385a291fb1744d8"
+ "chart_sha256": "1d7adeee926ce72518f7ac9b75872662b6a555443149b44cd538ea893a784e12"
 }
